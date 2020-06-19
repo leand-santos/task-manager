@@ -1,6 +1,6 @@
-# Ecoleta-Next-Level-Week
+# Task Manager
 
-Rocketseat's Next Level Week tutorial.
+A complete task manager API.
 
 ## Getting Started
 
